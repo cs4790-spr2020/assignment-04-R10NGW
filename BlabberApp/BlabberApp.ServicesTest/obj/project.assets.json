@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.DataStore\\BlabberApp.DataStore.csproj",
+      "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Domain\\BlabberApp.Domain.csproj",
+      "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Services\\BlabberApp.Services.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\admin.mcclain\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.ServicesTest\\BlabberApp.ServicesTest.csproj",
+      "projectName": "BlabberApp.ServicesTest",
+      "projectPath": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.ServicesTest\\BlabberApp.ServicesTest.csproj",
+      "packagesPath": "C:\\Users\\admin.mcclain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.ServicesTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\admin.mcclain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.DataStore\\BlabberApp.DataStore.csproj": {
+              "projectPath": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.DataStore\\BlabberApp.DataStore.csproj"
+            },
+            "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Domain\\BlabberApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Domain\\BlabberApp.Domain.csproj"
+            },
+            "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Services\\BlabberApp.Services.csproj": {
+              "projectPath": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Services\\BlabberApp.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.DataStore\\BlabberApp.DataStore.csproj'. Inside Visual Studio, this may be because the project is unloaded or not part of current solution. Otherwise the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.DataStore\\BlabberApp.DataStore.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Services\\BlabberApp.Services.csproj'. Inside Visual Studio, this may be because the project is unloaded or not part of current solution. Otherwise the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Services\\BlabberApp.Services.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Domain\\BlabberApp.Domain.csproj'. Inside Visual Studio, this may be because the project is unloaded or not part of current solution. Otherwise the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\admin.mcclain\\Documents\\GitHub\\assignment-04-R10NGW\\BlabberApp\\BlabberApp.Domain\\BlabberApp.Domain.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
